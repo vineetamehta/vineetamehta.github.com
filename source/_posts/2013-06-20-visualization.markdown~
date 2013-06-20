@@ -36,7 +36,13 @@ Visualization is any technique for creating images, diagrams, or animations to c
 <p> The practice of using visualizations to analyze data.  In some research, visualizations can support more formal statistical tests by allowing researchers to interact with the data points directly without aggregating or summarizing them.  Even simple scatter plots, when the variables are chosen carefully, can show outliers, dense regions, bimodalities, etc. In fields where the data themselves are visual (e.g., medical fields), visual analytics may actually be the primary means of analyzing data.  The process of analyzing data through visualization is itself studied by researchers in the visual analytics field.</p>
 
 <h3>Product Visualization</h3>
-<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FAE_visualization.jpg/250px-FAE_visualization.jpg" border="1">
+<img src="http://www.guilhemvu.com/images/5D1.jpg" border="1">
 <p>Product visualization involves visualization software technology for the viewing and manipulation of 3D models, technical drawing and other related documentation of manufactured components and large assemblies of products. It is a key part of product lifecycle management. Product visualization software typically provides high levels of photorealism so that a product can be viewed before it is actually manufactured. This supports functions ranging from design and styling to sales and marketing. Technical visualization is an important aspect of product development. Originally technical drawings were made by hand, but with the rise of advanced computer graphics the drawing board has been replaced by computer-aided design (CAD). CAD-drawings and models have several advantages over hand-made drawings such as the possibility of 3-D modeling, rapid prototyping, and simulation.</p>
+
+<h3>Visual analytics</h3>
+<p>
+Visual analytics focuses on human interaction with visualization systems as part of a larger process of data analysis. Visual analytics has been defined as "the science of analytical reasoning supported by the interactive visual interface".
+Its focus is on human information discourse (interaction) within massive, dynamically changing information spaces. Visual analytics research concentrates on support for perceptual and cognitive operations that enable users to detect the expected and discover the unexpected in complex information spaces.
+Technologies resulting from visual analytics find their application in almost all fields, but are being driven by critical needs (and funding) in biology and national security.</p>
 
 
