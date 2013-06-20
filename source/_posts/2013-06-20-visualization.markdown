@@ -10,18 +10,22 @@ categories:
  <p> <i>Data Visualization can be a complicated set of processes to learn.</i> Finding the right way to view your data is as much an art as a science.
 
 Visualization is any technique for creating images, diagrams, or animations to communicate a message. Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of man.Examples from history include cave paintings, Egyptian hieroglyphs, Greek geometry, and Leonardo da Vinci's revolutionary methods of technical drawing for engineering and scientific purposes.
+
+
 <a rel="full-article" href="http://en.wikipedia.org/wiki/Visualization_%28computer_graphics%29">Read on &rarr;</a>
 
 
 <h2>Data visualization</h2>
 <p> A term usually covering both information and scientific visualization.  </p>
 <p> Visualization today has ever-expanding applications in science, education, engineering (e.g., product visualization), interactive multimedia, medicine, etc. Typical of a visualization application is the field of computer graphics. The invention of computer graphics may be the most important development in visualization since the invention of central perspective in the Renaissance period. The development of animation also helped advance visualization.</p>
+
 ---
-<h3>Data Visualization:</h3>
-<p> <i>An umbrella term, usually covering both information and scientific visualization.  This is a general way of talking about anything that converts data sources into a visual representation (like charts, graphs, maps, sometimes even just tables).</i></p>
+
 <h3>Scientific Visualization</h3>
 <img src="http://visualizing.org/sites/default/files/imagecache/embedded_vis_medium/images/lang4_01_med.jpg"></p>
 <p> Scientific visualization is the transformation, selection, or representation of data from simulations or experiments, with an implicit or explicit geometric structure, to allow the exploration, analysis, and understanding of the data. Scientific visualization focuses and emphasizes the representation of higher order data using primarily graphics and animation techniques.</p>
+
+
 
 <h3>Information Visualization</h3>
 
@@ -40,6 +44,7 @@ Visualization is any technique for creating images, diagrams, or animations to c
 <p>Product visualization involves visualization software technology for the viewing and manipulation of 3D models, technical drawing and other related documentation of manufactured components and large assemblies of products. It is a key part of product lifecycle management. Product visualization software typically provides high levels of photorealism so that a product can be viewed before it is actually manufactured. This supports functions ranging from design and styling to sales and marketing. Technical visualization is an important aspect of product development. Originally technical drawings were made by hand, but with the rise of advanced computer graphics the drawing board has been replaced by computer-aided design (CAD). CAD-drawings and models have several advantages over hand-made drawings such as the possibility of 3-D modeling, rapid prototyping, and simulation.</p>
 
 <h3>Visual analytics</h3>
+<img src="http://cdn.practicaldb.com/wp-content/uploads/2011/08/Tableau-on-iPad.jpg" border="1">
 <p>
 Visual analytics focuses on human interaction with visualization systems as part of a larger process of data analysis. Visual analytics has been defined as "the science of analytical reasoning supported by the interactive visual interface".
 Its focus is on human information discourse (interaction) within massive, dynamically changing information spaces. Visual analytics research concentrates on support for perceptual and cognitive operations that enable users to detect the expected and discover the unexpected in complex information spaces.
