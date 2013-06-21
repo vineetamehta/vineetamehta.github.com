@@ -5,8 +5,8 @@ date: 2013-06-21 00:38
 comments: true
 categories: 
 ---
-#<img src="" align="center">
 ![water drops](/images/drop.jpg)
+
 Water is the most abundant compound on Earth's surface, covering about 70 percent of the planet. In nature, water exists in liquid, solid, and gaseous states.
 Pure water (solely hydrogen and oxygen atoms) has a neutral pH of 7, which is neither acidic nor basic.
 Water dissolves more substances than any other liquid. Wherever it travels, water carries chemicals, minerals, and nutrients with it.
@@ -27,8 +27,6 @@ The average five-minute shower takes between 25-50 gallons of water.
 The average automatic dishwasher uses 9-12 gallons of water while hand washing dishes can take up to 20 gallons.
 
 Seventy-five percent of a tree is water.
-
-
 
 <img src="http://cnx.org/content/m20229/latest/graphics1.png">
 
