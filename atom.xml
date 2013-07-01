@@ -4,7 +4,7 @@
   <title><![CDATA[Vineeta 's Blog]]></title>
   <link href="http://vineetamehta.github.io/atom.xml" rel="self"/>
   <link href="http://vineetamehta.github.io/"/>
-  <updated>2013-06-21T06:12:18+05:30</updated>
+  <updated>2013-07-01T13:01:33+05:30</updated>
   <id>http://vineetamehta.github.io/</id>
   <author>
     <name><![CDATA[Vineeta Mehta]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Humans polluting the Water]]></title>
+    <link href="http://vineetamehta.github.io/blog/2013/07/01/humans-polluting-the-water/"/>
+    <updated>2013-07-01T13:00:00+05:30</updated>
+    <id>http://vineetamehta.github.io/blog/2013/07/01/humans-polluting-the-water</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[H2O]]></title>
