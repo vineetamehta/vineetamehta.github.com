@@ -18,17 +18,16 @@ When toxic substances enter lakes, streams, rivers, oceans, and other water bodi
 
 
 The major sources that lead to water pollution to the following categories:
-
-    petroleum products
-    synthetic agricultural chemicals
-    heavy metals
-    hazardous wastes
-    excess organic matter
-    sediment
-    infectious organisms
-    air pollution
-    thermal pollution
-    soil pollution 
+* petroleum products
+* synthetic agricultural chemicals
+* heavy metals
+* hazardous wastes
+* excess organic matter
+* sediment
+* infectious organisms
+* air pollution
+* thermal pollution
+* soil pollution 
 
 
 
