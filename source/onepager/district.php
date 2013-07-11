@@ -44,7 +44,7 @@ echo $A."<br>".$B;
 	     echo "<option value='".$row2['district']."'>".$row2['district']."</option>"; 
 		}
 	   echo "</select>";
-	   echo "<button type="submit">Lets GO</button>";
+	   echo "<button type='submit'>"."Lets GO"."</button>";
 ?>
 
 </form>
