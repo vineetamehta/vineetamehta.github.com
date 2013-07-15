@@ -20,14 +20,18 @@ echo $A."<br>";
 <link rel="stylesheet" href="styles/media-queries.css" />
 
 <!added for bootstrap>
+<script type="text/javascript" src="./scripts/bootstrap.min.js"></script><!added for bootstrap>
 <script type="text/javascript" src="./scripts/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="./flex-slider/jquery.flexslider-min.js"></script>
+<script src="scripts/jquery.prettyPhoto.js" type="text/javascript"></script>
+<script src="scripts/jquery.tipsy.js" type="text/javascript"></script>
+<script src="scripts/jquery.knob.js" type="text/javascript"></script>
 <script type="text/javascript" src="./scripts/jquery.isotope.min.js"></script>
 <script type="text/javascript" src="./scripts/jquery.smooth-scroll.min.js"></script>
 <script type="text/javascript" src="./scripts/waypoints.min.js"></script>
 <script type="text/javascript" src="./scripts/setup.js"></script>
 </head>
 <body>
-<div>
 <form action="district.php" method="POST">
         <?php   
 	if ($A=="STATE")
@@ -56,6 +60,6 @@ echo $A."<br>";
 
          ?>
 <button type="submit">SEARCH</button>
-</form></div>
+</form>
 </body>
 </html>
