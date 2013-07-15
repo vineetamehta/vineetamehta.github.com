@@ -4,7 +4,7 @@
   <title><![CDATA[Vineeta 's Blog]]></title>
   <link href="http://vineetamehta.github.io/atom.xml" rel="self"/>
   <link href="http://vineetamehta.github.io/"/>
-  <updated>2013-07-11T15:04:16+05:30</updated>
+  <updated>2013-07-16T00:22:36+05:30</updated>
   <id>http://vineetamehta.github.io/</id>
   <author>
     <name><![CDATA[Vineeta Mehta]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Geocoding]]></title>
+    <link href="http://vineetamehta.github.io/blog/2013/07/15/geocoding/"/>
+    <updated>2013-07-15T19:56:00+05:30</updated>
+    <id>http://vineetamehta.github.io/blog/2013/07/15/geocoding</id>
+    <content type="html"><![CDATA[<p>I and my project partner have been working on the IdeaDu Project as part of our summer training. We are working on the Project &lsquo;My water My condition&rsquo;.While working on this Application we had come across the need of Geocoding.
+Geocoding is the process of finding associated geographic coordinates (usually expressed as latitude and longitude) from other geographic data, such as addresses, or PIN codes (postal codes).</p>
+
+<p>Then there is something called as reverse geocoding.As the name suggests it is just the opposite of Geocoding:finding an associated textual location such as a street address, from geographic coordinates.</p>
+
+<p>So how do we start..</p>
+
+<p>We have the options of using Google Maps, Maps of India ,Open Street Maps.</p>
+
+<p>GPS Visualizer offers several options for geocoding your information.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Water Pollution]]></title>

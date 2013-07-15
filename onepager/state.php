@@ -15,7 +15,19 @@ echo $A."<br>";
 ?>
 <!DOCTYPE html>
 <html>
+<head>
+<link rel="stylesheet" href="styles/style.css" media="screen" />
+<link rel="stylesheet" href="styles/media-queries.css" />
+
+<!added for bootstrap>
+<script type="text/javascript" src="./scripts/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="./scripts/jquery.isotope.min.js"></script>
+<script type="text/javascript" src="./scripts/jquery.smooth-scroll.min.js"></script>
+<script type="text/javascript" src="./scripts/waypoints.min.js"></script>
+<script type="text/javascript" src="./scripts/setup.js"></script>
+</head>
 <body>
+<div>
 <form action="district.php" method="POST">
         <?php   
 	if ($A=="STATE")
@@ -43,7 +55,7 @@ echo $A."<br>";
           }
 
          ?>
-<button type="submit">Lets GO</button>
-</form>
+<button type="submit">SEARCH</button>
+</form></div>
 </body>
 </html>

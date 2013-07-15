@@ -21,13 +21,16 @@ echo $A."<br>".$B;
  		$data = mysql_query("SELECT DISTINCT state ,district ,quality from `2009` having district='$B' ")  or die(mysql_error()); 
  		Print "<table border cellpadding=3>"; 
  		while($info = mysql_fetch_array( $data )) 
- 		{ 
+ 		{ $C=$info['quality'];
  		Print "<tr>"; 
  		Print "<th>State:</th> <td>".$info['state'] . "</td> "; 
  		Print "<th>District:</th> <td>".$info['district'] . " </td>"; 
  		Print "<th>Quality</th> <td>".$info['quality'] . "</td></tr> "; 
- 		} 
+		
  		Print "</table>"; 
+		}
+
+		
              }
 ?> 
 <!DOCTYPE html>
@@ -45,7 +48,7 @@ echo $A."<br>".$B;
 		}
 	   echo "</select>";
 	   echo "<button type='submit'>"."Lets GO"."</button>";
-?>
+          }?>
 
 </form>
 </body>
